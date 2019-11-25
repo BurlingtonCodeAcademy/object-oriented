@@ -133,7 +133,7 @@ It's best if dependencies are *one-way* and hierarchies are *shallow*.
 
 CRC = Classes, Reponsibilities, Collaborators
 
-![example CRC for Chat House](/images/crc-chat.jpg)
+![example CRC for Chat House](https://res.cloudinary.com/btvca/image/upload/v1574445172/curriculum/crc-chat_s1zm1c.jpg)
 
 For each class (object type) in your system, make a box (or an index card). In this box, write the **Class name**, a list of its **Responsibilities**, and draw arrows to its **Collaborators**.
 
